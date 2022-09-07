@@ -1,0 +1,44 @@
+.up{
+    background-color: navy;
+    height: 250px;
+    width: 100%;
+}
+.down{
+    background-color: whitesmoke;
+    height: 300px; 
+    width: 100%;
+}
+.converterWrap{
+    border-radius: 2%;
+    margin-top: 5%;
+    border: 1px solid white;
+    width: 30%;
+    height: 30%;
+    margin-left: 5%;
+    box-shadow: 5px;
+    position: absolute;
+    background-color: white;
+    color: navy;
+}
+.start{
+    margin: auto;
+    max-width: 700px;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+#convertBtn{
+    background-color: navy;
+    color: white;
+    font-size: 25px;
+    margin-top: 13%;
+    margin-left: 5%;
+    border-radius: 5%;
+}
+#resultContainer1{
+    margin-top: 5%;
+}
+
+
